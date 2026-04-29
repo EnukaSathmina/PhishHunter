@@ -1,0 +1,9 @@
+# requirements.txt
+requests>=2.31.0
+python-whois>=0.8.0
+cryptography>=41.0.0
+tldextract>=5.0.0
+pysafebrowsing>=0.1.0
+colorama>=0.4.6
+python-dotenv>=1.0.0
+dnspython>=2.4.0
