@@ -23,7 +23,7 @@
 
 ### Clone the repository
 ```bash
-git clone https://github.com/yourusername/phishhunter.git
+git clone https://github.com/EnukaSathmina/PhishHunter.git
 ```
 ```
 cd phishhunter
